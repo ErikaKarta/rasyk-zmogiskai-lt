@@ -1,0 +1,14 @@
+interface:
+  display_name: Rašyk žmogiškai LT Lite
+  short_description: Natūralesni lietuviški tekstai be DI šablonų
+  default_prompt: Naudok $rasyk-zmogiskai-lt-lite ir perrašyk šį tekstą natūralia
+    lietuvių kalba.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
