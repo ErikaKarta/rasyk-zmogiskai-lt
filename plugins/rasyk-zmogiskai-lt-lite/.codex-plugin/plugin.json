@@ -1,0 +1,26 @@
+{
+  "name": "rasyk-zmogiskai-lt-lite",
+  "version": "1.0.0",
+  "description": "Rašo ir perrašo natūralius lietuviškus tekstus be dažniausių DI šablonų.",
+  "author": {
+    "name": "Erika Kartaševa",
+    "url": "https://t.me/erikamarketingas"
+  },
+  "license": "MIT",
+  "keywords": ["lietuviu kalba", "rasymas", "DI tekstai", "marketingas"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Rašyk žmogiškai LT Lite",
+    "shortDescription": "Natūralesni lietuviški tekstai be DI šablonų",
+    "longDescription": "Nemokama lietuviškų tekstų rašymo, perrašymo ir trumpo audito versija. Pašalina dažniausias generines DI formuluotes, perteklinį aiškinimą ir mechanišką ritmą, bet saugo faktus bei autoriaus mintį.",
+    "developerName": "Erika Kartaševa",
+    "category": "Productivity",
+    "capabilities": ["Write"],
+    "websiteURL": "https://t.me/erikamarketingas",
+    "defaultPrompt": [
+      "Perrašyk šį tekstą natūralia lietuvių kalba.",
+      "Atlik šio teksto DI šablonų auditą, bet jo neperrašyk."
+    ],
+    "brandColor": "#8B1538"
+  }
+}
