@@ -1,0 +1,20 @@
+{
+  "name": "erika-karta-tools",
+  "interface": {
+    "displayName": "Erika Karta Tools"
+  },
+  "plugins": [
+    {
+      "name": "rasyk-zmogiskai-lt-lite",
+      "source": {
+        "source": "local",
+        "path": "./plugins/rasyk-zmogiskai-lt-lite"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
